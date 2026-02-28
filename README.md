@@ -1,5 +1,7 @@
 This project focuses on creating a unique collection of fictional beasts, including their images, sounds, and language. The goal was to explore generative AI techniques to bring these creatures to life in a multimodal format. The resulting project is very high in its visual noise, refrencing Gen AI's high need for visual power to denoise. The images remind me of abstract and impressionist paintings. 
 
+link:  https://duzakh.github.io/postcards-from-my-jungle/main.html
+
 *images*
 
 
