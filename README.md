@@ -18,4 +18,6 @@ For the beasts’ sounds, GPU access on Colab was lost midway through the projec
  The language/text was generated using ChatGPT. I provided some images and a prompt to produce 16 phrases. This is attached under the file chat_convo.txt. 
 
  *quality control*
+
+ 
  Increasing GPU and general processing power would cut down on time for generation. Overall I think this project underscored how concrete the limitedness of computational resources are. I was thinking about the potential strain on natural resources while creating this too. 
